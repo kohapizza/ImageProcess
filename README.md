@@ -12,7 +12,7 @@ Java
 Put the png file to be used in the png directory.
 
 ```terminal
-$ git clone https://github.com/kohapizza/Imageprocess.git
+$ git clone https://github.com/kohapizza/ImageProcess.git
 $ cd ImageProcess/cvjava 
 $ javac *.java
 $ java CvMain
